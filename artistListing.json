@@ -48,5 +48,55 @@
       "spotify": "http://spotify.com",
       "soundcloud": "http://soundcloud.com",
       "apple_music": "http://store.apple.com"
+    },
+    {
+      "index": 5,
+      "artistName": "MC Fixer",
+      "artistGenre": "green",
+      "picture": "http://placehold.it/32x32",
+      "about": "Exercitation nisi et nulla magna nulla in laboris do aliquip elit enim sit sit. Dolore esse voluptate qui deserunt do minim et irure ea. Anim adipisicing dolore ad incididunt esse enim ullamco sint laboris. Culpa anim elit quis ad sunt dolore ullamco enim voluptate et. Enim elit mollit est occaecat amet sit duis consequat pariatur adipisicing non proident.\r\n",
+      "spotify": "http://spotify.com",
+      "soundcloud": "http://soundcloud.com",
+      "apple_music": "http://store.apple.com"
+    },
+    {
+      "index": 6,
+      "artistName": "MC Fixer",
+      "artistGenre": "green",
+      "picture": "http://placehold.it/32x32",
+      "about": "Exercitation nisi et nulla magna nulla in laboris do aliquip elit enim sit sit. Dolore esse voluptate qui deserunt do minim et irure ea. Anim adipisicing dolore ad incididunt esse enim ullamco sint laboris. Culpa anim elit quis ad sunt dolore ullamco enim voluptate et. Enim elit mollit est occaecat amet sit duis consequat pariatur adipisicing non proident.\r\n",
+      "spotify": "http://spotify.com",
+      "soundcloud": "http://soundcloud.com",
+      "apple_music": "http://store.apple.com"
+    },
+    {
+      "index": 7,
+      "artistName": "MC Fixer",
+      "artistGenre": "green",
+      "picture": "http://placehold.it/32x32",
+      "about": "Exercitation nisi et nulla magna nulla in laboris do aliquip elit enim sit sit. Dolore esse voluptate qui deserunt do minim et irure ea. Anim adipisicing dolore ad incididunt esse enim ullamco sint laboris. Culpa anim elit quis ad sunt dolore ullamco enim voluptate et. Enim elit mollit est occaecat amet sit duis consequat pariatur adipisicing non proident.\r\n",
+      "spotify": "http://spotify.com",
+      "soundcloud": "http://soundcloud.com",
+      "apple_music": "http://store.apple.com"
+    },
+    {
+      "index": 8,
+      "artistName": "MC Fixer",
+      "artistGenre": "green",
+      "picture": "http://placehold.it/32x32",
+      "about": "Exercitation nisi et nulla magna nulla in laboris do aliquip elit enim sit sit. Dolore esse voluptate qui deserunt do minim et irure ea. Anim adipisicing dolore ad incididunt esse enim ullamco sint laboris. Culpa anim elit quis ad sunt dolore ullamco enim voluptate et. Enim elit mollit est occaecat amet sit duis consequat pariatur adipisicing non proident.\r\n",
+      "spotify": "http://spotify.com",
+      "soundcloud": "http://soundcloud.com",
+      "apple_music": "http://store.apple.com"
+    },
+    {
+      "index": 9,
+      "artistName": "MC Fixer",
+      "artistGenre": "green",
+      "picture": "http://placehold.it/32x32",
+      "about": "Exercitation nisi et nulla magna nulla in laboris do aliquip elit enim sit sit. Dolore esse voluptate qui deserunt do minim et irure ea. Anim adipisicing dolore ad incididunt esse enim ullamco sint laboris. Culpa anim elit quis ad sunt dolore ullamco enim voluptate et. Enim elit mollit est occaecat amet sit duis consequat pariatur adipisicing non proident.\r\n",
+      "spotify": "http://spotify.com",
+      "soundcloud": "http://soundcloud.com",
+      "apple_music": "http://store.apple.com"
     }
   ]
