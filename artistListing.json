@@ -53,7 +53,7 @@
   },
   {
     "index": 4,
-    "artistName": "Annabelle Dawson",
+    "artistName": "BELLA | Annabelle Dawson",
     "artistGenre": "Pop / Dark Pop / Alternative",
     "artistPosition": "Artist",
     "picture": "http://placehold.it/32x32",
@@ -62,7 +62,7 @@
     "soundcloud": "SoundCloud.com/saii_rp",
     "apple_music": "http://store.apple.com",
     "youtube_music": "http://youtube.com/music",
-    "latest_release": "spotify:track:4RrIClaoo6OkBn6K2iB1Gm"
+    "latest_release": "spotify:track:7nrMiOCzgw0wSNoEKuaZvL"
   },
   {
     "index": -5,
@@ -261,7 +261,7 @@
   },
   {
     "index": 20,
-    "artistName": "Klass Nowak",
+    "artistName": "Klaas2 | Klaas Nowak",
     "artistGenre": "Alternative R&B / Rap",
     "artistPosition": "Artist",
     "picture": "http://placehold.it/32x32",
@@ -403,16 +403,16 @@
     "latest_release": "spotify:track:2PqynsDOV09oirb77vzoHL"
   },
   {
-    "index": -31,
-    "artistName": "Roy Rinn",
-    "artistGenre": "Orchestral Rock",
-    "artistPosition": "Artist",
+    "index": 31,
+    "artistName": "ARK | Roy Rinn",
+    "artistGenre": "Pop",
+    "artistPosition": "Artist | Intern Idol Winner",
     "picture": "http://placehold.it/32x32",
-    "about": "Exercitation nisi et nulla magna nulla in laboris do aliquip elit enim sit sit. Dolore esse voluptate qui deserunt do minim et irure ea. Anim adipisicing dolore ad incididunt esse enim ullamco sint laboris. Culpa anim elit quis ad sunt dolore ullamco enim voluptate et. Enim elit mollit est occaecat amet sit duis consequat pariatur adipisicing non proident.\r\n",
-    "spotify": "http://spotify.com",
-    "soundcloud": "http://soundcloud.com",
-    "apple_music": "http://store.apple.com",
-    "youtube_music": "http://youtube.com/music",
+    "about": "I am a Singer, Songwriter and Lyricist that loves telling stories through their songs.\r\n Music is my life and probably the most important thing to me.\r\n The music I make reflects my thoughts, feelings, emotions and some are dedicated to specific people I care about. Honestly I don’t really know what I’m doing, but I love it and apparently I’m good at it.",
+    "spotify": "https://open.spotify.com/artist/3S8rgnfNVci68jBZ6A5JEW?si=1seE50ZoR82yybhIEufyZQ",
+    "soundcloud": "https://on.soundcloud.com/VtHSq",
+    "apple_music": "https://music.apple.com/us/artist/ark/1676701096",
+    "youtube_music": "https://music.youtube.com/channel/UC7osS91NNVgfcOImC0fSHSg?feature=share",
     "latest_release": "spotify:track:6MEW7Sh2RJIquI9ZdTUoqm"
   },
   {
@@ -443,7 +443,7 @@
   },
   {
     "index": 34,
-    "artistName": "Sydney Harper",
+    "artistName": "Echo Skies | Sydney Harper",
     "artistGenre": "Orchestral Rock",
     "artistPosition": "Intern Artist | Website Manager",
     "picture": "http://placehold.it/32x32",
