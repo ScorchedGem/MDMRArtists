@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "64d3df62196a00ea2f274393",
+    "available": false,
+    "price": "$3,386,749",
+    "picture": "http://placehold.it/32x32",
+    "name": "Morton Mosley",
+    "acceleration": 1.1165,
+    "speed": 1.408,
+    "handling": 5.3989,
+    "brakes": 7.5074,
+    "seats": 4
+  },
+  {
+    "_id": "64d3df6286cc548da4c029ff",
+    "available": false,
+    "price": "$3,611,650",
+    "picture": "http://placehold.it/32x32",
+    "name": "Bennett Wyatt",
+    "acceleration": 6.238,
+    "speed": 2.1601,
+    "handling": 8.007,
+    "brakes": 1.9816,
+    "seats": 3
+  },
+  {
+    "_id": "64d3df621d9cc65706371724",
+    "available": false,
+    "price": "$3,330,685",
+    "picture": "http://placehold.it/32x32",
+    "name": "Kathryn Carson",
+    "acceleration": 0.7292,
+    "speed": 3.1513,
+    "handling": 0.8044,
+    "brakes": 1.2188,
+    "seats": 6
+  },
+  {
+    "_id": "64d3df62ff757d0867225a9a",
+    "available": false,
+    "price": "$2,093,439",
+    "picture": "http://placehold.it/32x32",
+    "name": "Kasey Jackson",
+    "acceleration": 7.5652,
+    "speed": 2.9964,
+    "handling": 1.6727,
+    "brakes": 8.6091,
+    "seats": 1
+  },
+  {
+    "_id": "64d3df622416ab913f107796",
+    "available": false,
+    "price": "$1,433,609",
+    "picture": "http://placehold.it/32x32",
+    "name": "Duncan Talley",
+    "acceleration": 6.9972,
+    "speed": 1.8174,
+    "handling": 4.9965,
+    "brakes": 1.0544,
+    "seats": 5
+  }
+]
